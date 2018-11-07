@@ -1,0 +1,48 @@
+[{
+ "fullpath": "/files/dbz.jpg",
+ "type": "image",
+ "metadata": {
+ "creator" : "Trunks",
+ "resolution" : "1080"
+ }
+ },
+ {
+ "fullpath": "/files/cat.mov",
+ "type": "video",
+ "metadata": {
+ "creator" : "Joe",
+ "runtime" : "3.18",
+ "resolution" : "720"
+ }
+ },
+ {
+ "fullpath": "/files/song.m4a",
+ "type": "audio",
+ "metadata": {
+ "creator" : "Test",
+ "runtime" : "4.20"
+ }
+ },
+ {
+ "fullpath": "/files/text.txt",
+ "type": "document",
+ "metadata": {
+ "creator" : "Computer"
+ }
+ },
+ {
+ "fullpath": "/files/text2.txt",
+ "type": "document",
+ "metadata": {
+ "creator" : "Computer"
+ }
+ },
+ {
+ "fullpath": "/files/SSJ3.png",
+ "type": "image",
+ "metadata": {
+ "creator" : "Henry",
+ "resolution" : "1080"
+ }
+ }
+ ]
